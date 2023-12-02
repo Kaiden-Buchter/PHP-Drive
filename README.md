@@ -10,7 +10,8 @@ Icons: https://fontawesome.com/v4/icons/
 TODO:
 Add "Owner" & "Admin" roles - ✔️
 Add Admin Panel & make only visible to "Owner" & "Admin" roles - ✔️
-Add "Forgot password?" and "Confirm Password" feild to login page - ✖️ (Priority)
+Add "Forgot password?" to login page - ✖️ (Priority)
+Add "Confirm Password" feild - ✖️
 Add email verification - ✖️
 Add usernames - ✖️
 Add Profile button on main page - ✖️
