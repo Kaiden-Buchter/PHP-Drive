@@ -18,6 +18,7 @@ Go to http://localhost/phpmyadmin
 Icons: https://fontawesome.com/v4/icons/
 
 TODO:
+Add Password encryption - ✔️
 Add "Owner" & "Admin" roles - ✔️
 Add Admin Panel & make only visible to "Owner" & "Admin" roles - ✔️
 Add "Forgot password?" to login page - ✖️ (Priority)
