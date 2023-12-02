@@ -1,5 +1,14 @@
 # PHP-Drive
 
+# Project 1 - Chat App
+Programming Languages:
+PHP
+HTML
+AJAX
+CSS
+JS
+SQL
+
 Download XAMPP: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe
 Put folder in C:\xampp\htdocs
 Run Apache and MySQL modules
