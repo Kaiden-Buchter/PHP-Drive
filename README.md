@@ -17,6 +17,9 @@ Go to http://localhost/phpmyadmin
 
 Icons: https://fontawesome.com/v4/icons/
 
+Reset PWD email: chatapp.resetpwd@gmail.com
+App Password: ikqd lkxn zkza hexv
+
 TODO:
 Add Password encryption - ✔️
 Add "Owner" & "Admin" roles - ✔️
