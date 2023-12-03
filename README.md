@@ -26,8 +26,8 @@ Add usernames - ✔️
 Add username login compatibility - ✔️
 Make "Confirm Password" field logic - ✔️
 Add Profile button on main page - ✔️
+Make Profile logic - ✔️
 Add "Forgot password?" logic - ✖️ (Priority)
 Add email verification - ✖️ (Priority)
 Add reveal password logic for "Confirm Password" field - ✖️
-Make Profile logic - ✖️
 Add Ban User button on Admin Panel - ✖️
