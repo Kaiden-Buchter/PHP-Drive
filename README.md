@@ -25,8 +25,9 @@ Add Password encryption - ✔️
 Add "Owner" & "Admin" roles - ✔️
 Add Admin Panel & make only visible to "Owner" & "Admin" roles - ✔️
 Add usernames - ✔️
-Add "Forgot password?" to login page - ✖️ (Priority)
+Add username login compatibility - ✔️
+Make "Confirm Password" field logic - ✔️
+Add "Forgot password?" logic - ✖️ (Priority)
 Add email verification - ✖️ (Priority)
-Make "Confirm Password" feild logic - ✖️
 Add Profile button on main page - ✖️
 Add Ban User button on Admin Panel - ✖️
