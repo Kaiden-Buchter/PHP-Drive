@@ -20,7 +20,6 @@ Add email verification - ✖️ (Priority)
 Add "Delete Account" login in profile - ✖️
 Add reveal password logic for "Confirm Password" field - ✖️
 Add Ban User button on Admin Panel - ✖️
-Add change email to setings - ✖️
 
 ## Finshed:
 Add Password encryption - ✔️
@@ -31,5 +30,6 @@ Add username login compatibility - ✔️
 Make "Confirm Password" field logic - ✔️
 Add Profile button on main page - ✔️
 Make Profile logic - ✔️
+Add change email to setings - ✔️
 
 # Project 2 - TBD
