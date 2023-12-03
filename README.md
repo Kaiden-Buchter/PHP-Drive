@@ -17,6 +17,7 @@ App Password: ikqd lkxn zkza hexv
 ## TODO:
 Add "Forgot password?" logic - ✖️ (Priority)
 Add email verification - ✖️ (Priority)
+Add "Delete Account" login in profile - ✖️
 Add reveal password logic for "Confirm Password" field - ✖️
 Add Ban User button on Admin Panel - ✖️
 
