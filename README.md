@@ -19,7 +19,11 @@ Reset PWD email: chatapp.resetpwd@gmail.com
 App Password: ikqd lkxn zkza hexv
 
 ## Photos:
-![image](https://github.com/Kaiden-Buchter/PHP-Drive/assets/150194619/7114537a-e48b-4728-a269-bfcee364e97e) ![image](https://github.com/Kaiden-Buchter/PHP-Drive/assets/150194619/d60f53ac-9056-4305-a07f-1eb350b86f81)
+Sign-up:
+![image](https://github.com/Kaiden-Buchter/PHP-Drive/assets/150194619/7114537a-e48b-4728-a269-bfcee364e97e)
+
+Login:
+![image](https://github.com/Kaiden-Buchter/PHP-Drive/assets/150194619/d60f53ac-9056-4305-a07f-1eb350b86f81)
 
 
 TODO:
