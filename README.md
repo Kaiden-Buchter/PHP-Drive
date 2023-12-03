@@ -28,6 +28,8 @@ Add "Forgot password?" logic - ✖️ (Priority)
 Add email verification - ✖️ (Priority)
 Add reveal password logic for "Confirm Password" field - ✖️
 Add Ban User button on Admin Panel - ✖️
+
+## Finshed:
 Add Password encryption - ✔️
 Add "Owner" & "Admin" roles - ✔️
 Add Admin Panel & make only visible to "Owner" & "Admin" roles - ✔️
