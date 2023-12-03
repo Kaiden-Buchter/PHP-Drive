@@ -19,7 +19,7 @@ Reset PWD email: chatapp.resetpwd@gmail.com
 App Password: ikqd lkxn zkza hexv
 
 ## Photos:
-![alt text](https://postimg.cc/kBK8vdSc)
+![image](https://github.com/Kaiden-Buchter/PHP-Drive/assets/150194619/7114537a-e48b-4728-a269-bfcee364e97e)
 
 TODO:
 Add Password encryption - ✔️
