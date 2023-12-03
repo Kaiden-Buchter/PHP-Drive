@@ -2,12 +2,12 @@
 This is my first **BIG** php project.
 
 ## Programming Languages:
-PHP
-HTML
-AJAX
-CSS
-JS
-SQL
+PHP - Still learning
+HTML - Profitent
+AJAX - Still learning
+CSS - Still learning
+JS - Profitent
+SQL - Still learning
 
 ## Instructions
 Download XAMPP: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe
