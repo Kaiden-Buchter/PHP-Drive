@@ -1,5 +1,3 @@
-# PHP-Drive
-
 # Project 1 - Chat App
 Programming Languages:
 PHP
