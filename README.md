@@ -5,11 +5,7 @@ This is my first **BIG** php project.
 PHP, HTML, AJAX, CSS, JS, and SQL
 
 ## Instructions
-Download XAMPP: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe
-Put folder in C:\xampp\htdocs
-Run Apache and MySQL modules
-Go to http://localhost/chatapp/
-Go to http://localhost/phpmyadmin
+1. Download XAMPP: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe 2. Put main project folder in C:\xampp\htdocs 3.Run Apache and MySQL modules 4. Go to http://localhost/chatapp/ 5. Go to http://localhost/phpmyadmin
 
 ## Icons:
 https://fontawesome.com/v4/icons/
