@@ -20,6 +20,7 @@ Add email verification - ✖️ (Priority)
 Add "Delete Account" login in profile - ✖️
 Add reveal password logic for "Confirm Password" field - ✖️
 Add Ban User button on Admin Panel - ✖️
+Add change email to setings - ✖️
 
 ## Finshed:
 Add Password encryption - ✔️
