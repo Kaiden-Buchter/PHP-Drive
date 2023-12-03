@@ -18,6 +18,9 @@ Icons: https://fontawesome.com/v4/icons/
 Reset PWD email: chatapp.resetpwd@gmail.com
 App Password: ikqd lkxn zkza hexv
 
+Photos:
+![alt text](https://postimg.cc/kBK8vdSc/0db67500)
+
 TODO:
 Add Password encryption - ✔️
 Add "Owner" & "Admin" roles - ✔️
