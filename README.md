@@ -29,3 +29,5 @@ Add username login compatibility - ✔️
 Make "Confirm Password" field logic - ✔️
 Add Profile button on main page - ✔️
 Make Profile logic - ✔️
+
+# Project 1 - TBD
