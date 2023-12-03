@@ -24,6 +24,10 @@ Reset PWD email: chatapp.resetpwd@gmail.com
 App Password: ikqd lkxn zkza hexv
 
 ## TODO:
+Add "Forgot password?" logic - ✖️ (Priority)
+Add email verification - ✖️ (Priority)
+Add reveal password logic for "Confirm Password" field - ✖️
+Add Ban User button on Admin Panel - ✖️
 Add Password encryption - ✔️
 Add "Owner" & "Admin" roles - ✔️
 Add Admin Panel & make only visible to "Owner" & "Admin" roles - ✔️
@@ -32,7 +36,3 @@ Add username login compatibility - ✔️
 Make "Confirm Password" field logic - ✔️
 Add Profile button on main page - ✔️
 Make Profile logic - ✔️
-Add "Forgot password?" logic - ✖️ (Priority)
-Add email verification - ✖️ (Priority)
-Add reveal password logic for "Confirm Password" field - ✖️
-Add Ban User button on Admin Panel - ✖️
