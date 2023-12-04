@@ -1,6 +1,6 @@
 # Chat App
 
-## Supported Versions
+### Supported Versions
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -9,6 +9,6 @@
 |         | :x:                |
 |         | :x:                |
 
-## Reporting a Vulnerability
+### Reporting a Vulnerability
 
 N/A as of now!
