@@ -1,5 +1,3 @@
-# Security Policy
-
 # Chat App
 
 ## Supported Versions
